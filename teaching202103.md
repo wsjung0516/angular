@@ -11,26 +11,36 @@
 	1. [Dynamic Error handling](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
 
 2021.03.09 (TUE)
-	1. [Auto complete](https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5)
+	1. [Auto complete](https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5)	
 	2. [RxJS Technic](https://sentinelone-tech.medium.com/15-rxjs-awesome-tips-from-15-sentinels-84ad132b13fd)
+	
 2021.03.10 (WED)
 	1. [Auto complete](https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5)
+	
 2021.03.11 (THU)
 	1. [Auto complete](https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5)
 	2. [Typescript technic.](https://blog.angulartraining.com/5-typescript-tricks-for-angular-f5267432c8b0)
-2021.0316 (TUE)
+	
+2021.03.16 (TUE)
 	1. [Defer](https://netbasal.com/getting-to-know-the-defer-observable-in-rxjs-a16f092d8c09)
+	
 2021.03.17 (WED)
 	1. [Auto complete](https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5)
+	
 2021.03.18 (THU)
 	1. [Change Detection Strategy](https://medium.com/coinone/change-detection-%EC%A4%91%EC%8B%AC-angular-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%B0%A9%EB%B2%95-957962ba3d2e)
+	
 2021.03.23 (TUE)
 	1. [Change Detection Strategy](https://medium.com/coinone/change-detection-%EC%A4%91%EC%8B%AC-angular-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%B0%A9%EB%B2%95-957962ba3d2e)
+	
 2021.03.24 (WED)
 	1. [Change Detection Strategy](https://medium.com/coinone/change-detection-%EC%A4%91%EC%8B%AC-angular-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%B0%A9%EB%B2%95-957962ba3d2e)
+	
 2021.03.25 (THU)
 	1. [Memoized pipe](https://blog.usejournal.com/angular-optimization-memoized-pipe-functions-in-templates-75f62e16df5a)
+	
 2021.03.30 (TUE)
-	1.[Running event listeners outside Angular](https://indepth.dev/posts/1434/running-event-listeners-outside-of-the-ngzone)
+	1. [Running event listeners outside Angular](https://indepth.dev/posts/1434/running-event-listeners-outside-of-the-ngzone)
+	
 2021.03.31 (WED)
 	1. [Bind](https://jeonghwan-kim.github.io/2017/10/22/js-context-binding.html)

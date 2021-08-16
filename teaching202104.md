@@ -1,4 +1,4 @@
-2021.04.01 (THU)
+###### 2021.04.01 (THU)
 1. [Bind](https://jeonghwan-kim.github.io/2017/10/22/js-context-binding.html)
 2. [Bind](https://ko.javascript.info/bind)
 2021.04.07 (WED)

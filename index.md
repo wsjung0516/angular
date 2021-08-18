@@ -1,10 +1,9 @@
 ## Welcome to Angular Pages
 
-You can use the [editor on GitHub](https://github.com/wsjung0516/angular/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sub title #1 is part of the articles that I studies and lecture to our co-worker. It is high qualiy one, some of them is not easy to understand at the first glance, but has very useful technic to apply programming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### High quality Angular articles
+### 1. High quality Angular articles
 
 1. [Auto complete](https://netbasal.com/advanced-angular-implementing-a-reusable-autocomplete-component-9908c2f04f5)
 2. [Angular Overlay (context menu)](https://netbasal.com/context-menus-made-easy-with-angular-cdk-963797e679fc)
@@ -23,7 +22,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-### Teaching History
+### 2. Teaching History
 - [2020.04](/teaching202004.md)
 - [2020.05](/teaching202005.md)
 - [2020.06](/teaching202006.md)
@@ -38,3 +37,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - [2021.03](/teaching202103.md)
 - [2021.04](/teaching202104.md)
 
+You can use the [editor on GitHub](https://github.com/wsjung0516/angular/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

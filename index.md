@@ -23,7 +23,9 @@ Sub title #1 is part of the articles that I studies and lecture to our co-worker
 
 
 ### 2. Teaching History
-Teaching history for junior engineer, who is not familar with angular. From 2020.10, lecture articles are repeaded because new engineer joined again.
+Teaching history for junior programer, who is not familar with angular. 
+
+From 2020.10, lecture articles are repeated because new programer joined.
 
 - [2020.04](/teaching202004.md)
 - [2020.05](/teaching202005.md)

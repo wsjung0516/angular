@@ -1,6 +1,6 @@
 ## Welcome to Angular Pages
 
-Sub title #1 is part of the articles that I studies and lecture to our co-worker. It is high qualiy one, some of them is not easy to understand at the first glance, but has very useful technic to apply programming.
+Sub title #1 is part of the articles that I studies and lecture to our co-worker. It is high qualiy one, some of them is not easy to understand at the first glance, but has very useful technic to apply advanced Angular programming.
 
 
 ### 1. High quality Angular articles
@@ -23,6 +23,8 @@ Sub title #1 is part of the articles that I studies and lecture to our co-worker
 
 
 ### 2. Teaching History
+Teaching history for junior engineer, who is not familar with angular. From 2020.10, lecture articles are repeaded because new engineer joined again.
+
 - [2020.04](/teaching202004.md)
 - [2020.05](/teaching202005.md)
 - [2020.06](/teaching202006.md)

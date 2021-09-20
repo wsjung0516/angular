@@ -2,7 +2,7 @@
 
 Sub title #1 is part of the articles that I studies and lecture to our co-worker.\
 It is high qualiy one, some of them is not easy to understand at the first glance,\
-but has very useful technics to apply advanced Angular programming.
+but has very useful technique to apply advanced Angular programming.
 
 
 ### 1. High quality Angular articles
@@ -26,7 +26,7 @@ but has very useful technics to apply advanced Angular programming.
 
 ### 2. Teaching History
 Teaching history for junior programer, who is not familar with angular. \
-From 2020.10, lecture articles are repeated because new programer joined.
+From 2020.10, lecturing articles is repeated because new co-worker is joined.
 
 - [2020.04](/teaching202004.md)
 - [2020.05](/teaching202005.md)

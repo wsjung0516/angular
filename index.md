@@ -1,4 +1,4 @@
-# Gool Articles & Teaching history.
+# Good Articles & Teaching history.
 
 ## Welcome to Angular Pages
 
